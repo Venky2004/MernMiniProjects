@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+body {
+  color: white;
+  background-image: url("pages/Images/bg.gif");
+  background-repeat: repeat;
+  margin: 0px;
+  box-sizing: border-box;
+}
