@@ -10,6 +10,39 @@
       "vac": "yes",
       "phone": "6302115915",
       "id": 1
+    },
+    {
+      "name": "patnanasaideekshith",
+      "age": "20",
+      "gender": "male",
+      "job": "student",
+      "email": "patnanasaideekshith@gmail.com",
+      "address": "85-1-6 ,V L Puram",
+      "vac": "yes",
+      "phone": "6302098030",
+      "id": 2
+    },
+    {
+      "name": "K Harsha Vardhan",
+      "age": "20",
+      "gender": "male",
+      "job": "student",
+      "email": "kattaharshavardhan@gmail.com",
+      "address": "N.B Padu",
+      "vac": "no",
+      "phone": "8217427342",
+      "id": 3
+    },
+    {
+      "name": "K Harsha Vardhan",
+      "age": "20",
+      "gender": "male",
+      "job": "student",
+      "email": "kattaharshavardhan@gmail.com",
+      "address": "N.B Padu",
+      "vac": "no",
+      "phone": "8217427342",
+      "id": 4
     }
   ]
 }

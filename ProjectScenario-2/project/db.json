@@ -1,0 +1,14 @@
+{
+  "sampledata": [
+    {
+      "id": 1,
+      "eventid": 123,
+      "type": "program/quiz/game/event",
+      "rjname": "Michael Robinson",
+      "timing": "9am-10am",
+      "duration": "60mins",
+      "participation": 50,
+      "pic": "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e"
+    }
+  ]
+}
